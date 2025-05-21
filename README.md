@@ -32,8 +32,11 @@ def replacestr(str1,replace_str):
 ### OUTPUT
  ![image](https://github.com/user-attachments/assets/ab789972-0bcc-4de6-a234-f80f5209ed92)
 
+
 ### RESULT
 Thus the python program of find and replace is implemented and executed successfully.
+
+
 
 
 Exp.No:3(b)	REGEX-PATTERN MATCHING USING REGEX
@@ -76,6 +79,8 @@ else:
 ### RESULT
 Thus the python program for pattern matching using regular expression was  implemented and executed successfully.
 
+
+
 Exp.No:3(c)	LIST- EVEN NUMBERS LIST
 
 ### AIM
@@ -110,6 +115,8 @@ def createlist(a):
 
 ### RESULT
 Thus the python program for printing a list with even numbers up to n, was implemented and executed successfully.
+
+
 
 Exp.No:3(d)	TUPLES- A TUPLE WITH MULTIPLES OF 5
 ### AIM
